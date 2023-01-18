@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @talkingnow
+- 👋 Hi, I’m Hyun-seo Shin
 - 👀 I’m interested in speaker verification
 - 🌱 I’m currently learning speaker verification with deep learning
 - 💞️ I’m looking to collaborate on ...
