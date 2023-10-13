@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Hyun-seo Shin
-- 👀 I’m interested in speaker verification
+- 👀 I’m interested in speaker verification and audio anti-spoofing
 - 🌱 I’m currently learning speaker verification with deep learning
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
